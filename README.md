@@ -1,2 +1,1 @@
-# API-TESTER
-A WEB API TESTER
+# A web api tester
